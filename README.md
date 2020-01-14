@@ -3,6 +3,9 @@
 ## Description
 Personal vue starter template ( with typescript+eslint+prettier+webstorm)
 
+### Apply prettier rules to webstorm
+![](https://user-gold-cdn.xitu.io/2020/1/14/16fa2b0ab277d792?w=523&h=568&f=png&s=105620)
+
 ### Reformat code on save
 Use `file watchers` in webstorm
 
