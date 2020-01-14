@@ -1,6 +1,6 @@
 {
-  "name": "vue2-taobao",
-  "version": "0.1.1",
+  "name": "vue-typescript-starter",
+  "version": "0.0.1",
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
