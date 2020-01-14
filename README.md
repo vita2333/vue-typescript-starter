@@ -1,29 +1,9 @@
-# vue2-taobao
+# vue-typescript-starter
 
-## Project setup
-```
-yarn install
-```
+## Description
+Personal vue starter template ( with typescript+eslint+prettier+webstorm)
 
-### Compiles and hot-reloads for development
-```
-yarn run serve
-```
+### Reformat code on save
+Use `file watchers` in webstorm
 
-### Compiles and minifies for production
-```
-yarn run build
-```
-
-### Run your tests
-```
-yarn run test
-```
-
-### Lints and fixes files
-```
-yarn run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+![](https://user-gold-cdn.xitu.io/2020/1/14/16fa2adc4def9a7a?w=1195&h=776&f=png&s=81051)
